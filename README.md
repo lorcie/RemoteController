@@ -1,3 +1,4 @@
 # RemoteController
-RemoteController connected with Samsung Artik Cloud 
+RemoteController connected with Samsung Artik Cloud
+
 work in progress
